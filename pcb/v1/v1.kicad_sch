@@ -1,0 +1,333 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c9a089ab-5af5-42df-87be-f1df643a1407")
+	(paper "A4")
+	(lib_symbols)
+	(text "[X] inputs to INT0\n[*] TDA2822\n[X] Relay\n[X] Buzz\n[-] Magnet\n[ ] DC - DC\n[X] 12V charger \n[X] I-meter\n[*] Oscillator\n[X] PWM for outputs\n[*] PWM-based DAC output\n[*] Peak detector\n[ ] 12->5 V\n[ ] USB -> External (12V) switcher\n[*] LED indication\n[X] SPI + I/O on connector\n[ ] Spare parts\n[ ] Fill free scapces\n[*] High voltage divider, isolated and covered "
+		(exclude_from_sim no)
+		(at 164.084 142.24 0)
+		(effects
+			(font
+				(face "DejaVu Sans Mono")
+				(size 4 4)
+				(color 17 8 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c754417-6aea-4183-96b9-89862efb8a51")
+	)
+	(text "[ ] Compile BPF to control data from stm?\n[ ] Boot from embedded SRAM to avoid flashing "
+		(exclude_from_sim no)
+		(at 19.05 183.896 0)
+		(effects
+			(font
+				(size 3 3)
+				(color 188 0 255 1)
+			)
+			(justify left)
+		)
+		(uuid "aa840acf-57e1-4d62-b153-d38bc60f3418")
+	)
+	(sheet
+		(at 97.79 29.21)
+		(size 62.23 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4053bb6f-ff39-4a94-8eef-ce7ee4cd61d7")
+		(property "Sheetname" "Analog inputs"
+			(at 97.79 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ain.kicad_sch"
+			(at 97.79 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 125.73)
+		(size 24.13 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "61f03f5a-231a-401c-beda-7de2de98f810")
+		(property "Sheetname" "Analog outputs"
+			(at 113.03 125.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "aout.kicad_sch"
+			(at 113.03 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 90.17)
+		(size 21.59 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c1fbf66d-2c5c-4121-915f-86bdae7245e0")
+		(property "Sheetname" "Digital outputs power"
+			(at 130.81 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dout_p.kicad_sch"
+			(at 130.81 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 168.91)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d9818325-5f76-4dfd-810e-7bda3982fae4")
+		(property "Sheetname" "Other"
+			(at 132.08 168.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "other.kicad_sch"
+			(at 132.08 194.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 87.63)
+		(size 22.86 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dae6130b-bcb5-41c9-a491-3b23e8945132")
+		(property "Sheetname" "Digital outputs"
+			(at 97.79 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dout.kicad_sch"
+			(at 97.79 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 83.82)
+		(size 60.96 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e699812c-f518-41c3-8be4-9075d5187e33")
+		(property "Sheetname" "stm"
+			(at 27.94 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm.kicad_sch"
+			(at 27.94 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 29.21)
+		(size 60.96 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ffc087b2-abba-42aa-b70d-a395e8b765a9")
+		(property "Sheetname" "Digital inputs"
+			(at 27.94 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "din.kicad_sch"
+			(at 27.94 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
