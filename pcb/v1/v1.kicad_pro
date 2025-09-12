@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.4,
-          "height": 2.2,
-          "width": 2.2
+          "drill": 0.0,
+          "height": 0.6,
+          "width": 6.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -502,7 +502,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
+        "track_width": 0.4,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -682,6 +682,10 @@
     [
       "61f03f5a-231a-401c-beda-7de2de98f810",
       "Analog outputs"
+    ],
+    [
+      "e0fb1621-bbd2-4e06-b64b-69439904f2d9",
+      "Spare components"
     ],
     [
       "d9818325-5f76-4dfd-810e-7bda3982fae4",

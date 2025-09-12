@@ -5,7 +5,7 @@
 	(uuid "c9a089ab-5af5-42df-87be-f1df643a1407")
 	(paper "A4")
 	(lib_symbols)
-	(text "[X] inputs to INT0\n[*] TDA2822\n[X] Relay\n[X] Buzz\n[-] Magnet\n[ ] DC - DC\n[X] 12V charger \n[X] I-meter\n[*] Oscillator\n[X] PWM for outputs\n[*] PWM-based DAC output\n[*] Peak detector\n[ ] 12->5 V\n[ ] USB -> External (12V) switcher\n[*] LED indication\n[X] SPI + I/O on connector\n[ ] Spare parts\n[ ] Fill free scapces\n[*] High voltage divider, isolated and covered "
+	(text "[X] inputs to INT0\n[*] TDA2822\n[X] Relay\n[X] Buzz\n[-] Magnet\n[ ] DC - DC\n[X] 12V charger \n[X] I-meter\n[*] Oscillator\n[X] PWM for outputs\n[*] PWM-based DAC output\n[*] Peak detector\n[ ] 12->5 V\n[ ] USB -> External (12V) switcher\n[*] LED indication\n[X] SPI + I/O on connector\n[ ] Spare parts\n[ ] Fill free scapces\n\n[*] High voltage divider, isolated and covered \n[ ] Optrone"
 		(exclude_from_sim no)
 		(at 164.084 142.24 0)
 		(effects
@@ -236,6 +236,48 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 49.53 149.86)
+		(size 21.59 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0fb1621-bbd2-4e06-b64b-69439904f2d9")
+		(property "Sheetname" "Spare components"
+			(at 49.53 149.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "spare.kicad_sch"
+			(at 49.53 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407"
+					(page "9")
 				)
 			)
 		)
