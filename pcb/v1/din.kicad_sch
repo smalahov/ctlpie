@@ -2179,7 +2179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16351816-f1c2-41f2-bdac-b7d35ed08b63")
-		(property "Reference" "CONN_DIN1"
+		(property "Reference" "C_DIN1"
 			(at 19.558 45.72 90)
 			(effects
 				(font
@@ -2230,7 +2230,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/ffc087b2-abba-42aa-b70d-a395e8b765a9"
-					(reference "CONN_DIN1")
+					(reference "C_DIN1")
 					(unit 1)
 				)
 			)
@@ -2600,7 +2600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28bda252-494f-4691-947a-5d205d7e68cb")
-		(property "Reference" "CONN_DIN5"
+		(property "Reference" "C_DIN5"
 			(at 67.818 88.9 90)
 			(effects
 				(font
@@ -2651,7 +2651,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/ffc087b2-abba-42aa-b70d-a395e8b765a9"
-					(reference "CONN_DIN5")
+					(reference "C_DIN5")
 					(unit 1)
 				)
 			)
@@ -2667,7 +2667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38ecad21-cd5a-4d94-9a85-c3d344d69da5")
-		(property "Reference" "CONN_DIN3"
+		(property "Reference" "C_DIN3"
 			(at 146.558 45.72 90)
 			(effects
 				(font
@@ -2718,7 +2718,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/ffc087b2-abba-42aa-b70d-a395e8b765a9"
-					(reference "CONN_DIN3")
+					(reference "C_DIN3")
 					(unit 1)
 				)
 			)
@@ -2943,7 +2943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4405b405-f625-4671-9902-56e9fd7f2d9f")
-		(property "Reference" "CONN_DIN4"
+		(property "Reference" "C_DIN4"
 			(at 215.138 45.72 90)
 			(effects
 				(font
@@ -2994,7 +2994,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/ffc087b2-abba-42aa-b70d-a395e8b765a9"
-					(reference "CONN_DIN4")
+					(reference "C_DIN4")
 					(unit 1)
 				)
 			)
@@ -3427,7 +3427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72344c77-7edb-43c3-bb06-06457a600d10")
-		(property "Reference" "CONN_DIN2"
+		(property "Reference" "C_DIN2"
 			(at 80.518 45.72 90)
 			(effects
 				(font
@@ -3478,7 +3478,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/ffc087b2-abba-42aa-b70d-a395e8b765a9"
-					(reference "CONN_DIN2")
+					(reference "C_DIN2")
 					(unit 1)
 				)
 			)
@@ -3987,7 +3987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e03d7c6-eb7d-4c22-ab51-9e5a4d4ec8e5")
-		(property "Reference" "CONN_DIN6"
+		(property "Reference" "C_DIN6"
 			(at 135.128 88.9 90)
 			(effects
 				(font
@@ -4038,7 +4038,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/ffc087b2-abba-42aa-b70d-a395e8b765a9"
-					(reference "CONN_DIN6")
+					(reference "C_DIN6")
 					(unit 1)
 				)
 			)

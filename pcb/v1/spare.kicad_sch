@@ -1375,6 +1375,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 60.96) (xy 228.6 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "079f63af-3eaf-466a-88c0-7109e9215cc2")
+	)
+	(wire
+		(pts
 			(xy 60.96 100.33) (xy 60.96 111.76)
 		)
 		(stroke
@@ -1595,6 +1605,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 44.45) (xy 228.6 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39820676-b3db-4ecf-879f-6c7f88a520be")
+	)
+	(wire
+		(pts
 			(xy 81.28 97.79) (xy 91.44 97.79)
 		)
 		(stroke
@@ -1625,6 +1645,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 54.61) (xy 228.6 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d6ecdba-dc33-413f-89c4-fbf4cebf423f")
+	)
+	(wire
+		(pts
 			(xy 128.27 57.15) (xy 140.97 57.15)
 		)
 		(stroke
@@ -1632,6 +1662,16 @@
 			(type default)
 		)
 		(uuid "4471f3a3-1ea3-42a9-b544-e1f1f1cb244d")
+	)
+	(wire
+		(pts
+			(xy 210.82 27.94) (xy 218.44 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "474e787b-3155-4639-ba87-db13ef480b30")
 	)
 	(wire
 		(pts
@@ -1655,6 +1695,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 33.02) (xy 218.44 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49254fd0-fcb3-4170-b07e-0c0017e5f396")
+	)
+	(wire
+		(pts
 			(xy 135.89 100.33) (xy 160.02 100.33)
 		)
 		(stroke
@@ -1662,6 +1712,16 @@
 			(type default)
 		)
 		(uuid "4993e312-54ad-49cd-a33e-113e6a3e71bc")
+	)
+	(wire
+		(pts
+			(xy 255.27 55.88) (xy 262.89 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b63cb5d-caf4-4302-896a-50aa3b0c6356")
 	)
 	(wire
 		(pts
@@ -1825,6 +1885,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 53.34) (xy 255.27 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c470452-8a2d-434a-a259-80d5c951c984")
+	)
+	(wire
+		(pts
 			(xy 179.07 83.82) (xy 187.96 83.82)
 		)
 		(stroke
@@ -1975,6 +2045,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 50.8) (xy 237.49 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "875a727a-c6a5-4565-b50d-a5cf29d28e06")
+	)
+	(wire
+		(pts
 			(xy 34.29 54.61) (xy 46.99 54.61)
 		)
 		(stroke
@@ -2085,6 +2165,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 57.15) (xy 236.22 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4783f4b-95eb-4198-b78a-d55febc4e5a6")
+	)
+	(wire
+		(pts
 			(xy 129.54 109.22) (xy 142.24 109.22)
 		)
 		(stroke
@@ -2105,6 +2195,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 67.31) (xy 237.49 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa763009-efd4-47fb-b5e6-800fa13dd85b")
+	)
+	(wire
+		(pts
 			(xy 135.89 100.33) (xy 135.89 110.49)
 		)
 		(stroke
@@ -2122,6 +2222,16 @@
 			(type default)
 		)
 		(uuid "b0814d0f-a308-45a7-98a9-7f9aaf5be474")
+	)
+	(wire
+		(pts
+			(xy 210.82 21.59) (xy 218.44 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b441fb62-fec7-4af3-a355-eedff532c406")
 	)
 	(wire
 		(pts
@@ -2315,6 +2425,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 43.18) (xy 255.27 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1f5c0de-9db1-497c-8423-fcc1e6e13be7")
+	)
+	(wire
+		(pts
 			(xy 85.09 74.93) (xy 100.33 74.93)
 		)
 		(stroke
@@ -2355,6 +2475,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 60.96) (xy 228.6 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e802b62e-b97f-4fb0-ab0f-21de80d4488d")
+	)
+	(wire
+		(pts
 			(xy 283.21 113.03) (xy 283.21 105.41)
 		)
 		(stroke
@@ -2365,6 +2495,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 44.45) (xy 228.6 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea8624e8-496c-40d5-b14e-b726edc73851")
+	)
+	(wire
+		(pts
 			(xy 81.28 161.29) (xy 83.82 161.29)
 		)
 		(stroke
@@ -2372,6 +2512,16 @@
 			(type default)
 		)
 		(uuid "eb0f7499-095b-4ecc-aa27-b77ecdafb47f")
+	)
+	(wire
+		(pts
+			(xy 259.08 49.53) (xy 264.16 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebf3528d-ebfb-4e96-8264-6ab1a64eaaae")
 	)
 	(wire
 		(pts
@@ -2395,6 +2545,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 71.12) (xy 228.6 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed86b918-f200-4d31-9df5-a181b659352d")
+	)
+	(wire
+		(pts
 			(xy 245.11 129.54) (xy 250.19 129.54)
 		)
 		(stroke
@@ -2402,6 +2562,16 @@
 			(type default)
 		)
 		(uuid "edc3fd21-7c4b-42a3-9928-79d95cff8e0a")
+	)
+	(wire
+		(pts
+			(xy 228.6 73.66) (xy 236.22 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee9c5430-f494-4d1f-a804-8e7edb4f3063")
 	)
 	(wire
 		(pts
@@ -2422,6 +2592,16 @@
 			(type default)
 		)
 		(uuid "f0772cdd-0d82-4b93-a931-c406af85adb2")
+	)
+	(wire
+		(pts
+			(xy 261.62 43.18) (xy 255.27 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f18aa138-2481-4433-bf25-b1dc4e6f731f")
 	)
 	(wire
 		(pts
@@ -2848,6 +3028,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 262.89 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "02823168-1e4a-4e66-a4aa-2b280b330a13")
+		(property "Reference" "SPARE57"
+			(at 267.97 55.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 264.9221 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 262.89 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 262.89 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d73c3b1-e8b1-4a81-bfb2-e838b76cdd08")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:MCP602")
 		(at 237.49 129.54 0)
 		(unit 2)
@@ -3002,6 +3249,84 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:2N7002K")
+		(at 69.85 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09f5cd5d-f3e0-4ca7-a6cf-15493c310842")
+		(property "Reference" "Q34"
+			(at 76.2 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 76.2 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 74.93 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 74.93 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 69.85 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1c059927-4df3-4616-8ae5-bf597a28fcc9")
+		)
+		(pin "3"
+			(uuid "8d954fb2-1c5e-4f6c-80c4-9bb16b1e1365")
+		)
+		(pin "1"
+			(uuid "cf7618bf-61c8-4a28-be9d-bf8e37318260")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002K")
 		(at 105.41 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3073,6 +3398,73 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "Q25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 210.82 27.94 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0bc483f1-1506-44f1-8b50-7623c68c5b8f")
+		(property "Reference" "SPARE47"
+			(at 205.74 27.9401 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 208.7879 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+			(at 210.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 210.82 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "220df651-b44b-4ac8-bec0-9333818a1176")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE47")
 					(unit 1)
 				)
 			)
@@ -3213,6 +3605,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 237.49 50.8 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0cf1494b-d175-4368-a0e8-d23c64f0e02a")
+		(property "Reference" "SPARE51"
+			(at 242.57 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 239.5221 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 237.49 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 237.49 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "88f434a2-a777-4e8b-ba8b-4cce9cdb20f8")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:2N7002K")
 		(at 58.42 22.86 0)
 		(unit 1)
@@ -3285,6 +3744,73 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "Q21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 236.22 57.15 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "11d37ffd-b1c9-4f1d-9972-3d841a4fb872")
+		(property "Reference" "SPARE52"
+			(at 241.3 57.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 238.2521 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 236.22 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "443e9bb7-a96d-4d30-b1ee-bddb72acd04d")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE52")
 					(unit 1)
 				)
 			)
@@ -3888,6 +4414,151 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 92.71 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d2f63d0-2208-41dd-af84-02f171d5327d")
+		(property "Reference" "Q36"
+			(at 99.06 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 99.06 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 97.79 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 97.79 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 92.71 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d08b458d-5443-4181-b812-34b4cb36405c")
+		)
+		(pin "3"
+			(uuid "9dbc4f2d-23f6-490b-a7f2-a5b95c025265")
+		)
+		(pin "1"
+			(uuid "13857fd9-f0f5-4b45-bbc3-2a74fdaa45e9")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 261.62 43.18 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31a32f14-b7c9-40a0-b3b2-09d33522eba3")
+		(property "Reference" "SPARE56"
+			(at 266.7 43.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 263.6521 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 261.62 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 261.62 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c33df4c-e6f8-4611-9c9f-1372a2b4106f")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED_Dual_AAKK")
 		(at 124.46 179.07 0)
 		(unit 1)
@@ -3956,6 +4627,73 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 236.22 73.66 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "397a90d6-b05f-4793-908a-31482ad2c2f8")
+		(property "Reference" "SPARE54"
+			(at 241.3 73.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 238.2521 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 236.22 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 236.22 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "99a8b568-e441-4488-bdcd-ab6fe1fde7cb")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE54")
 					(unit 1)
 				)
 			)
@@ -4031,6 +4769,84 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "RV16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 81.28 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "433ac0a1-b6c5-4329-9768-d58af2b0e272")
+		(property "Reference" "Q35"
+			(at 87.63 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 87.63 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 86.36 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 86.36 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 81.28 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3fef5f1b-23c9-47ce-beb9-6baa772c7656")
+		)
+		(pin "3"
+			(uuid "2429ba97-e711-4048-811e-7f25852e9702")
+		)
+		(pin "1"
+			(uuid "a27c7323-ab95-4e8e-8f0f-67aee374abdd")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q35")
 					(unit 1)
 				)
 			)
@@ -4224,13 +5040,13 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8e")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8f")
 		)
 		(pin "7"
 			(uuid "94d94743-9c90-4e3f-9ab7-140d97b3bc4b")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fc")
+			(uuid "c10fc360-f867-48ff-921a-967571ab99fd")
 		)
 		(pin "5"
 			(uuid "8773cf45-9279-43fb-b3bc-f0459507bdf0")
@@ -4239,13 +5055,13 @@
 			(uuid "60bb741a-c493-4e6e-9114-6a7783f5524d")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff770")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff771")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45e")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45f")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b86")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b87")
 		)
 		(instances
 			(project "v1"
@@ -4402,6 +5218,237 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 58.42 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f43c54f-3e74-4822-bf18-5216ae27344a")
+		(property "Reference" "Q33"
+			(at 64.77 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 64.77 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 63.5 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 63.5 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 58.42 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "70a7d70d-b99e-4a3a-b7a4-93889d913b95")
+		)
+		(pin "3"
+			(uuid "46b299cb-4cda-4fbf-b954-b4b6532d18f7")
+		)
+		(pin "1"
+			(uuid "d32039b0-087b-4f5e-812f-adbfd9a53ed9")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 255.27 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f699eae-99a0-4fe3-9daa-2189b8df2ec3")
+		(property "Reference" "RV21"
+			(at 252.73 48.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 252.73 50.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "5d0cc9d3-3c8c-4770-8fe9-f03a0a3a382a")
+		)
+		(pin "1"
+			(uuid "81e317a3-61b4-45d1-b66d-89d0b5827bf1")
+		)
+		(pin "2"
+			(uuid "5cc52ed8-2097-4d29-a41d-6090f836d524")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "RV21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 105.41 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5205fe4d-4a72-41a7-94e9-68c0b9b1dd10")
+		(property "Reference" "Q37"
+			(at 111.76 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 111.76 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 110.49 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 110.49 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 105.41 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "84d527ab-eb88-42a5-948c-f25b7af08c45")
+		)
+		(pin "3"
+			(uuid "fb8f8f79-9855-41b3-bf09-911a0dcc8946")
+		)
+		(pin "1"
+			(uuid "1a5299ae-d270-4a11-807b-e773fd69d399")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 250.19 129.54 270)
 		(unit 1)
@@ -4527,25 +5574,25 @@
 			(uuid "6d11175c-4d94-4995-9516-2d54cea4eee0")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d5")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d6")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fb")
+			(uuid "c10fc360-f867-48ff-921a-967571ab99fe")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6386")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6387")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206bf")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c0")
 		)
 		(pin "4"
 			(uuid "b2bb06c0-1ff3-4aa3-a2bc-3ca48a963f5e")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45d")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a460")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b85")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b88")
 		)
 		(instances
 			(project "v1"
@@ -4825,6 +5872,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 264.16 49.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5cc3f667-d97b-49b3-b3ff-bc37513954db")
+		(property "Reference" "SPARE58"
+			(at 269.24 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 266.1921 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 264.16 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 264.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "22f89cc5-166b-4133-a096-aece78e9ba4a")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 283.21 116.84 0)
 		(unit 1)
@@ -4950,22 +6064,22 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8c")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8d")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d4")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d7")
 		)
 		(pin "2"
 			(uuid "2472382a-5fa0-45ad-a6ea-c2bb881bb26c")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6385")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6388")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206be")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c1")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff76e")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff76f")
 		)
 		(pin "1"
 			(uuid "1b3caf9e-b073-4f46-8096-4cd2b61ea5d1")
@@ -5036,13 +6150,13 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8e")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd90")
 		)
 		(pin "7"
 			(uuid "c1cb8e03-b8ff-45c2-95ec-8c856ae6bcf0")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fc")
+			(uuid "c10fc360-f867-48ff-921a-967571ab99ff")
 		)
 		(pin "5"
 			(uuid "024b7fcb-6527-4249-9b13-808bccb11bf4")
@@ -5051,19 +6165,86 @@
 			(uuid "9a2f2e4f-76fc-4755-a4ac-1f4c3fa9ba2f")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff770")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff772")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45e")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a461")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b86")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b89")
 		)
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "U7")
 					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 210.82 21.59 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "60db9ce8-8bf7-4bea-bcac-8689fb835cc0")
+		(property "Reference" "SPARE46"
+			(at 205.74 21.5901 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 208.7879 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+			(at 210.82 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 210.82 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73c7aa90-c7e9-4306-b5b7-d0477d636713")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE46")
+					(unit 1)
 				)
 			)
 		)
@@ -5122,13 +6303,13 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8e")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd91")
 		)
 		(pin "7"
 			(uuid "c0d2a290-2e23-4d05-98ee-d669db7d7bd0")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fc")
+			(uuid "c10fc360-f867-48ff-921a-967571ab9a00")
 		)
 		(pin "5"
 			(uuid "6d43eb1b-bd3b-42e4-a1f7-5e3368ad074f")
@@ -5137,13 +6318,13 @@
 			(uuid "659c18f9-3a88-486f-920f-ac48c71365a5")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff770")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff773")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45e")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a462")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b86")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b8a")
 		)
 		(instances
 			(project "v1"
@@ -5233,6 +6414,304 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 151.13 22.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "709f38a0-eb2f-44f3-9ef3-e0c8d74c2444")
+		(property "Reference" "Q29"
+			(at 157.48 21.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 157.48 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 156.21 24.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 156.21 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 151.13 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9833dda9-de48-4827-9d71-ab55c5b079c0")
+		)
+		(pin "3"
+			(uuid "420c9021-2248-4046-86b5-e1f175e5762e")
+		)
+		(pin "1"
+			(uuid "ccd20b70-3c60-4ba8-b4f5-8c5e52942b11")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 228.6 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72c320d9-3e9c-4bff-9e60-1b9b67203e21")
+		(property "Reference" "RV20"
+			(at 226.06 66.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 226.06 68.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
+			(at 228.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 228.6 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "a4d20e59-f7b6-45c3-811e-cd4f72eb19ae")
+		)
+		(pin "1"
+			(uuid "5c14d980-dd34-4306-8232-ced313f89460")
+		)
+		(pin "2"
+			(uuid "8575a35e-040b-4104-80dc-c6c20901783d")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "RV20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 139.7 22.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75fba5e7-5cf7-41a8-bf8f-52b6668c2ced")
+		(property "Reference" "Q28"
+			(at 146.05 21.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 146.05 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 144.78 24.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 144.78 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 139.7 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a83a51a3-ed8a-4d25-8ec7-8f5e2f49217d")
+		)
+		(pin "3"
+			(uuid "d069227e-3d6e-489d-9245-026b6222d55f")
+		)
+		(pin "1"
+			(uuid "16334860-0413-4fb5-b45f-ad6d6937ae2a")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 218.44 27.94 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "786cbb19-1456-4a22-b59d-0689d493e134")
+		(property "Reference" "SPARE45"
+			(at 223.52 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 220.4721 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 218.44 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 218.44 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 218.44 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "79a7f09d-5774-41ca-bc2c-dd6304e9cbe8")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:MCP602")
 		(at 54.61 57.15 0)
 		(unit 1)
@@ -5288,22 +6767,22 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8c")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd92")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d4")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d8")
 		)
 		(pin "2"
 			(uuid "cc4ffbbf-19c0-48e2-910f-b73348005516")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6385")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6389")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206be")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c2")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff76e")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff774")
 		)
 		(pin "1"
 			(uuid "bbf28faa-d5f0-4149-a5c9-46430a549661")
@@ -5315,6 +6794,73 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 237.49 67.31 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7bfd3ad6-0f3f-442f-aca3-ef35bb714e4a")
+		(property "Reference" "SPARE55"
+			(at 242.57 67.3099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 239.5221 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 237.49 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 237.49 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "961c34c7-d46e-4d12-a27c-af0ed2ee9d1e")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE55")
 					(unit 1)
 				)
 			)
@@ -5441,13 +6987,13 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8e")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd93")
 		)
 		(pin "7"
 			(uuid "1f3005e8-9913-4c5e-85dd-403a1b3328db")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fc")
+			(uuid "c10fc360-f867-48ff-921a-967571ab9a01")
 		)
 		(pin "5"
 			(uuid "8f715d87-7241-46d1-906a-962dc7ff15b2")
@@ -5456,13 +7002,13 @@
 			(uuid "8887dce3-cae0-49a6-98c0-801a59f8138e")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff770")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff775")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45e")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a463")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b86")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b8b")
 		)
 		(instances
 			(project "v1"
@@ -5755,6 +7301,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 22.86 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8cec3b25-5ec3-47b8-85d5-357af4a53dbc")
+		(property "Reference" "Q30"
+			(at 29.21 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 29.21 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 27.94 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 27.94 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 22.86 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "399252fe-bb78-4a4a-bb87-5b8deee828f0")
+		)
+		(pin "3"
+			(uuid "0ac34227-939b-4474-917a-d68b87948688")
+		)
+		(pin "1"
+			(uuid "bec6fd59-8f08-4a89-ac90-38722f777bac")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 128.27 57.15 90)
 		(unit 1)
@@ -5961,6 +7585,162 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "SPARE27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 139.7 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9253fd3d-1b3b-44b8-9383-a8a902f8f540")
+		(property "Reference" "Q40"
+			(at 146.05 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 146.05 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 144.78 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 144.78 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 139.7 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d316e374-7c39-48ff-ba8d-07b15695c172")
+		)
+		(pin "3"
+			(uuid "798fbdb3-d0a3-44fa-9eb9-5f92b3f8f7e3")
+		)
+		(pin "1"
+			(uuid "52af5a11-f918-4b34-902d-a6f70ccf0073")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 116.84 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9349abde-58f7-418d-8832-0aa550a12758")
+		(property "Reference" "Q38"
+			(at 123.19 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 123.19 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 121.92 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 121.92 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 116.84 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "51d6e3f9-e558-40cc-b8a3-c5a57c34cd3a")
+		)
+		(pin "3"
+			(uuid "acecd4e3-9779-496a-9990-52cfd8601ead")
+		)
+		(pin "1"
+			(uuid "721ddf1e-a365-48b2-876e-8dae636f2383")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q38")
 					(unit 1)
 				)
 			)
@@ -6374,31 +8154,98 @@
 			(uuid "a9e87397-5268-414a-a96f-7fd7d570ad5d")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d5")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d9")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fb")
+			(uuid "c10fc360-f867-48ff-921a-967571ab9a02")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6386")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f638a")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206bf")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c3")
 		)
 		(pin "4"
 			(uuid "88d5fb20-a722-4a87-81fd-36bc213a26e2")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45d")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a464")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b85")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b8c")
 		)
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "U7")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 234.95 44.45 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a389ca4b-e3f7-4bd6-8097-5a08ce9fdf39")
+		(property "Reference" "SPARE50"
+			(at 240.03 44.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 236.9821 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 234.95 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 234.95 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39ef9bf1-4aa9-4e70-8521-f28c4efc174a")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE50")
+					(unit 1)
 				)
 			)
 		)
@@ -6606,6 +8453,151 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 234.95 60.96 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a84c395b-3119-4467-be01-235a564184c1")
+		(property "Reference" "SPARE53"
+			(at 240.03 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 236.9821 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 234.95 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 234.95 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 234.95 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7b140534-dd10-45a0-b35c-8306261396dd")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 46.99 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae605099-7227-4886-af40-f4bae80395bd")
+		(property "Reference" "Q32"
+			(at 53.34 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 53.34 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 52.07 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 52.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 46.99 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c8f395bc-b147-455f-85b8-ae9ea882ac8c")
+		)
+		(pin "3"
+			(uuid "22c374e9-cf20-441d-b062-941e40f60d6e")
+		)
+		(pin "1"
+			(uuid "9ef3b4c7-3eeb-4cf5-96b1-954220077f02")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 217.17 127 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6666,6 +8658,81 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "SPARE28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 228.6 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b40da869-6e65-4efd-a8c4-3e8d0f638f5e")
+		(property "Reference" "RV19"
+			(at 226.06 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 226.06 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b76b29fd-6a2f-440d-b1aa-aa561c71c480")
+		)
+		(pin "1"
+			(uuid "8fc83f9b-503f-404c-993f-bd9f8ca05cc9")
+		)
+		(pin "2"
+			(uuid "250d4d65-eff7-4021-b68f-3f302595f74c")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "RV19")
 					(unit 1)
 				)
 			)
@@ -7068,31 +9135,98 @@
 			(uuid "d50fef9a-a9f1-4c3b-a8ce-feb97b61bc1d")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d5")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869da")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fb")
+			(uuid "c10fc360-f867-48ff-921a-967571ab9a03")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6386")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f638b")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206bf")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c4")
 		)
 		(pin "4"
 			(uuid "706ac2a0-9b2c-4150-be66-7d79a1d001be")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45d")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a465")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b85")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b8d")
 		)
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "U8")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 210.82 33.02 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2b4997e-ebc6-4776-b4a0-7fec2d2e9a83")
+		(property "Reference" "SPARE48"
+			(at 205.74 33.0201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 208.7879 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+			(at 210.82 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 210.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a5cc4161-cec4-4699-ba58-4a766be48cdf")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE48")
+					(unit 1)
 				)
 			)
 		)
@@ -7293,6 +9427,73 @@
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "SPARE38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 218.44 33.02 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d0a998e9-ba4a-4f19-95c6-2549678b3bb7")
+		(property "Reference" "SPARE49"
+			(at 223.52 33.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 220.4721 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 218.44 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 218.44 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 218.44 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6766c119-9068-427f-9b6f-7b946592ee97")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE49")
 					(unit 1)
 				)
 			)
@@ -7569,31 +9770,98 @@
 			(uuid "22ab4050-4ffe-415d-8a00-d0449344a33b")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d5")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869db")
 		)
 		(pin "2"
-			(uuid "c10fc360-f867-48ff-921a-967571ab99fb")
+			(uuid "c10fc360-f867-48ff-921a-967571ab9a04")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6386")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f638c")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206bf")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c5")
 		)
 		(pin "4"
 			(uuid "2856a982-ed08-4beb-a910-239d71ea741f")
 		)
 		(pin "1"
-			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a45d")
+			(uuid "ed8e469b-8ccc-4bdb-b25d-2dbd5ce8a466")
 		)
 		(pin "3"
-			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b85")
+			(uuid "24f7de70-2bf0-4f1f-8507-5868415e6b8e")
 		)
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
 					(reference "U9")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 218.44 21.59 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d686885d-dd66-4d2e-8c5d-1498981f73e0")
+		(property "Reference" "SPARE44"
+			(at 223.52 21.5899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 220.4721 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 218.44 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 218.44 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 218.44 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c1705bb-c5dd-491b-994a-8255979e4faf")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "SPARE44")
+					(unit 1)
 				)
 			)
 		)
@@ -7878,6 +10146,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 128.27 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e030c243-0a1c-4c49-9710-67b1aadba7d1")
+		(property "Reference" "Q39"
+			(at 134.62 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 134.62 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 133.35 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 133.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 128.27 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b651a91c-5962-438e-a639-f12161d7d65d")
+		)
+		(pin "3"
+			(uuid "9dd42093-a308-4ed7-9a03-8ed85e6f50bd")
+		)
+		(pin "1"
+			(uuid "2aec9edd-8704-4e9c-b9cb-f8d1ea79f2dd")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 223.52 114.3 0)
 		(unit 1)
@@ -8098,6 +10444,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:2N7002K")
+		(at 35.56 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5a4db29-cd72-4118-b4c9-03d91d819cde")
+		(property "Reference" "Q31"
+			(at 41.91 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "2N7002K"
+			(at 41.91 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
+			(at 40.64 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+			(at 40.64 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.38A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 35.56 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "161a9745-8419-4f38-9f12-3ed110bc749f")
+		)
+		(pin "3"
+			(uuid "74f360f3-2b95-4992-9e60-0d9562ec12d0")
+		)
+		(pin "1"
+			(uuid "8a21385f-258d-4388-b7a6-5a10e641ef12")
+		)
+		(instances
+			(project "v1"
+				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/e0fb1621-bbd2-4e06-b64b-69439904f2d9"
+					(reference "Q31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:MCP602")
 		(at 149.86 111.76 0)
 		(unit 1)
@@ -8153,22 +10577,22 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8c")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd94")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d4")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869dc")
 		)
 		(pin "2"
 			(uuid "3a957d00-55e1-4b10-87d5-4075139940af")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6385")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f638d")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206be")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c6")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff76e")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff776")
 		)
 		(pin "1"
 			(uuid "385a4789-c723-4131-b9d0-4d2c3a9b148d")
@@ -8241,22 +10665,22 @@
 			)
 		)
 		(pin "8"
-			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd8c")
+			(uuid "2a9bccf7-7335-4dcf-9df2-9811f64ffd95")
 		)
 		(pin "7"
-			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869d4")
+			(uuid "c87c61e4-ff5f-42d4-b8f7-495e0c6869dd")
 		)
 		(pin "2"
 			(uuid "d7657318-7246-42f4-88d9-b921e863dbc1")
 		)
 		(pin "5"
-			(uuid "6efdf6aa-aade-469e-9844-1ffa869f6385")
+			(uuid "6efdf6aa-aade-469e-9844-1ffa869f638e")
 		)
 		(pin "6"
-			(uuid "24813e30-4d10-41b8-81c0-f1939db206be")
+			(uuid "24813e30-4d10-41b8-81c0-f1939db206c7")
 		)
 		(pin "4"
-			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff76e")
+			(uuid "d1ad75d5-a22d-4108-b4c5-38e74dfff777")
 		)
 		(pin "1"
 			(uuid "023523ae-24b2-44f1-87b4-ae223dd5f9ca")

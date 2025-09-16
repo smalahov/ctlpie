@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.6,
-          "width": 6.0
+          "height": 1.5,
+          "width": 1.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -59,18 +59,6 @@
         }
       ],
       "drc_exclusions": [
-        [
-          "clearance|116840000|48399337|6644c0f9-6a1b-4d7a-96ec-fa8a0ad10a09|35011273-68aa-4570-9db3-c43bdeb4d056",
-          ""
-        ],
-        [
-          "clearance|118130000|48260000|35011273-68aa-4570-9db3-c43bdeb4d056|7e91caf8-dee4-4058-a879-c7fff26e009e",
-          ""
-        ],
-        [
-          "clearance|118348750|40779337|c167976f-4d56-4025-8c62-dda6a6cfc1de|e6bf8c59-e6c0-449b-a23c-34a0d83dd1bb",
-          ""
-        ],
         [
           "lib_footprint_mismatch|147955000|138430000|3d46af8a-39b7-4c75-b73a-f2be19f488ed|00000000-0000-0000-0000-000000000000",
           ""
@@ -103,7 +91,7 @@
         "hole_clearance": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
-        "invalid_outline": "ignore",
+        "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
@@ -146,7 +134,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -491,7 +479,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.25,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -520,10 +508,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "v1.step",
       "svg": "",
       "vrml": ""
     },

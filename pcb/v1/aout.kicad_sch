@@ -1361,7 +1361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25e84cfb-d766-4ad0-ac6b-98f65b5c062d")
-		(property "Reference" "CONN_AOUT2"
+		(property "Reference" "C_AOUT2"
 			(at 138.43 87.6299 90)
 			(effects
 				(font
@@ -1413,7 +1413,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/61f03f5a-231a-401c-beda-7de2de98f810"
-					(reference "CONN_AOUT2")
+					(reference "C_AOUT2")
 					(unit 1)
 				)
 			)
@@ -1429,7 +1429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "311c81e8-60b7-41c1-b99e-07322f3045d2")
-		(property "Reference" "CONN_AOUT1"
+		(property "Reference" "C_AOUT1"
 			(at 125.73 64.7699 90)
 			(effects
 				(font
@@ -1481,7 +1481,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/61f03f5a-231a-401c-beda-7de2de98f810"
-					(reference "CONN_AOUT1")
+					(reference "C_AOUT1")
 					(unit 1)
 				)
 			)

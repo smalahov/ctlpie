@@ -1477,7 +1477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0472b09f-200d-4f14-a573-65e3c02329b6")
-		(property "Reference" "CONN_DOUT5"
+		(property "Reference" "C_DOUT5"
 			(at 205.232 56.642 90)
 			(effects
 				(font
@@ -1529,7 +1529,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/dae6130b-bcb5-41c9-a491-3b23e8945132"
-					(reference "CONN_DOUT5")
+					(reference "C_DOUT5")
 					(unit 1)
 				)
 			)
@@ -1691,7 +1691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12c8e2f1-7566-4b7a-9af3-b642a7e9f985")
-		(property "Reference" "CONN_DOUT4"
+		(property "Reference" "C_DOUT4"
 			(at 168.402 56.642 90)
 			(effects
 				(font
@@ -1743,7 +1743,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/dae6130b-bcb5-41c9-a491-3b23e8945132"
-					(reference "CONN_DOUT4")
+					(reference "C_DOUT4")
 					(unit 1)
 				)
 			)
@@ -1758,7 +1758,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1dd35d2f-4980-48d1-b0ea-a4bbf14aa4ec")
-		(property "Reference" "CONN_DOUT3"
+		(property "Reference" "C_DOUT3"
 			(at 130.302 56.642 90)
 			(effects
 				(font
@@ -1810,7 +1810,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/dae6130b-bcb5-41c9-a491-3b23e8945132"
-					(reference "CONN_DOUT3")
+					(reference "C_DOUT3")
 					(unit 1)
 				)
 			)
@@ -2039,7 +2039,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "305d2a52-4a48-490b-974b-2bd12f31c7f2")
-		(property "Reference" "CONN_DOUT2"
+		(property "Reference" "C_DOUT2"
 			(at 90.932 56.642 90)
 			(effects
 				(font
@@ -2091,7 +2091,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/dae6130b-bcb5-41c9-a491-3b23e8945132"
-					(reference "CONN_DOUT2")
+					(reference "C_DOUT2")
 					(unit 1)
 				)
 			)
@@ -2939,7 +2939,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a60a1aa5-e1d2-4a5e-bdb2-bb0b9493f401")
-		(property "Reference" "CONN_DOUT1"
+		(property "Reference" "C_DOUT1"
 			(at 50.292 56.642 90)
 			(effects
 				(font
@@ -2991,7 +2991,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/dae6130b-bcb5-41c9-a491-3b23e8945132"
-					(reference "CONN_DOUT1")
+					(reference "C_DOUT1")
 					(unit 1)
 				)
 			)

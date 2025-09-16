@@ -1841,7 +1841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d36d6b5-172e-4e51-bab9-c6b405917587")
-		(property "Reference" "CONN_DOUT_P1"
+		(property "Reference" "C_DOUT_P1"
 			(at 62.23 63.4999 90)
 			(effects
 				(font
@@ -1893,7 +1893,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/c1fbf66d-2c5c-4121-915f-86bdae7245e0"
-					(reference "CONN_DOUT_P1")
+					(reference "C_DOUT_P1")
 					(unit 1)
 				)
 			)
@@ -2477,7 +2477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "895826fe-5aca-42f9-b154-1a760eadcd77")
-		(property "Reference" "CONN_DOUT_P_GND1"
+		(property "Reference" "C_DOUT_P_GND1"
 			(at 63.5 90.1699 90)
 			(effects
 				(font
@@ -2529,7 +2529,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/c1fbf66d-2c5c-4121-915f-86bdae7245e0"
-					(reference "CONN_DOUT_P_GND1")
+					(reference "C_DOUT_P_GND1")
 					(unit 1)
 				)
 			)
@@ -2614,7 +2614,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92b88a7d-7439-435f-877b-e6477321d37f")
-		(property "Reference" "CONN_DOUT_P3"
+		(property "Reference" "C_DOUT_P3"
 			(at 180.34 63.4999 90)
 			(effects
 				(font
@@ -2666,7 +2666,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/c1fbf66d-2c5c-4121-915f-86bdae7245e0"
-					(reference "CONN_DOUT_P3")
+					(reference "C_DOUT_P3")
 					(unit 1)
 				)
 			)
@@ -2818,7 +2818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3178946-8847-4223-a4d2-4ea07a7d53d9")
-		(property "Reference" "CONN_DOUT_P2"
+		(property "Reference" "C_DOUT_P2"
 			(at 107.95 63.4999 90)
 			(effects
 				(font
@@ -2870,7 +2870,7 @@
 		(instances
 			(project "v1"
 				(path "/c9a089ab-5af5-42df-87be-f1df643a1407/c1fbf66d-2c5c-4121-915f-86bdae7245e0"
-					(reference "CONN_DOUT_P2")
+					(reference "C_DOUT_P2")
 					(unit 1)
 				)
 			)
