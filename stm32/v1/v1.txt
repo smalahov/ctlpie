@@ -1,0 +1,76 @@
+Configuration	v1
+STM32CubeMX 	6.15.0
+Date	10/02/2025
+MCU	STM32F407VGTx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SPI1	Full-Duplex Slave	SPI1_MISO	PB4
+SPI1	Full-Duplex Slave	SPI1_MOSI	PB5
+SPI1	Full-Duplex Slave	SPI1_SCK	PB3
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+55	PD8	GPIO_Input	
+56	PD9	GPIO_Output	
+57	PD10	GPIO_Input	
+59	PD12	GPIO_Input	
+81	PD0	GPIO_Input	
+82	PD1	GPIO_Input	
+83	PD2	GPIO_Input	
+84	PD3	GPIO_Input	
+85	PD4	GPIO_Input	
+89	PB3	SPI1_SCK	
+90	PB4	SPI1_MISO	
+91	PB5	SPI1_MOSI	
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SPI1	Full-Duplex Slave	SPI1_MISO	PB4
+SPI1	Full-Duplex Slave	SPI1_MOSI	PB5
+SPI1	Full-Duplex Slave	SPI1_SCK	PB3
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+55	PD8	GPIO_Input	
+56	PD9	GPIO_Output	
+57	PD10	GPIO_Input	
+59	PD12	GPIO_Input	
+81	PD0	GPIO_Input	
+82	PD1	GPIO_Input	
+83	PD2	GPIO_Input	
+84	PD3	GPIO_Input	
+85	PD4	GPIO_Input	
+89	PB3	SPI1_SCK	
+90	PB4	SPI1_MISO	
+91	PB5	SPI1_MOSI	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : v1
+Project Folder : /home/sergey/src/ctlpie/stm32/v1
+Toolchain / IDE : STM32CubeIDE
+Firmware Package Name and Version : STM32Cube FW_F4 V1.28.3
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+
